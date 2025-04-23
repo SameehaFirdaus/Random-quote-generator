@@ -1,2 +1,2 @@
 # Random-quote-generator
-https://33oqhgappmcsm6quursc9ck.streamlit.app/#kheer
+https://random-quote-generator-hn9wcdtxx9tjqtjmfahcgq.streamlit.app/
